@@ -1,0 +1,21 @@
+#body {
+  background-color: rgb(118, 230, 170);
+  display: flex;
+  align-content: center;
+}
+
+#app {
+  display: flex;
+  justify-content: center;
+}
+
+#input {
+  height: 200px;
+  width: 400px;
+  font-size: 20px;
+  background-color: aliceblue;
+}
+
+.button {
+  background-color: blueviolet;
+}
