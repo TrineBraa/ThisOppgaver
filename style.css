@@ -1,0 +1,17 @@
+.Box {
+  height: 100px;
+  width: 100px;
+  border: solid 2px;
+}
+
+.pink {
+  background-color: pink;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
