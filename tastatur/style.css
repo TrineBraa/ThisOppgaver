@@ -1,7 +1,7 @@
 #body {
   background-color: rgb(118, 230, 170);
   display: flex;
-  align-content: center;
+  justify-content: center;
 }
 
 #app {
@@ -9,13 +9,28 @@
   justify-content: center;
 }
 
-#input {
-  height: 200px;
-  width: 400px;
+#inputTxt {
+  height: 70px;
+  width: 600px;
   font-size: 20px;
   background-color: aliceblue;
 }
 
 .button {
-  background-color: blueviolet;
+  background-color: rgb(160, 106, 211);
+  color: white;
+  width: 40px;
+  height: 30px;
+  margin: 5px;
+  font-size: 20px;
+  margin-left: 5px;
+}
+
+.Backspace {
+  background-color: rgb(160, 106, 211);
+  color: white;
+  height: 30px;
+  width: 150px;
+  font-size: 20px;
+  margin-left: 5px;
 }
